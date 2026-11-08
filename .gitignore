@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+shots/
+maps/
+routes/
+*.log
+enshrouded_tools.json
